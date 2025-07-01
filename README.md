@@ -50,3 +50,5 @@ The OptiSolve Chrome Extension revolutionizes how you interact with AI for probl
 4. Access additional features, such as exporting chats or deleting history etc...
 
 ---
+
+[Click here to watch the demo video]([https://your-link-to-video.mp4](https://drive.google.com/file/d/1tiTUGdyhPbLzIyRitYqJBGysEssotFdt/view?usp=drive_link))
