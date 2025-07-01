@@ -26,7 +26,7 @@ The OptiSolve Chrome Extension revolutionizes how you interact with AI for probl
 - **Lazy Loading**: The AI Chat Bot help button is only visible once the title and description of the problem page is loaded to avoid unnecessary click before the content loaded
 ---
 
-## What Makes AlgoZenith Chat Bot Different?
+## What Makes OptiSolve Different?
 
 - **Focused AI**: Unlike generic chatbots, AlgoZenith Chat Bot is purpose-built to handle specific coding problems and challenges, ensuring that it stays on topic.
 - **User-Centric Design**: From custom API integration to voice and audio features, every aspect of the extension is crafted to enhance the user's experience.
