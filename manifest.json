@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "OptiSolve",
+  "version": "0.1",
+  "author": "Shree Swagat Srinivash Majhi",
+  "description": "Helps to solve AZ problemset using OptiSolve",
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://maang.in/*"
+      ],
+      "js": [
+        "marked.min.js", "content.js"
+      ]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources" : [
+    {
+      "resources": [
+       "style.css" , "assets/boomark.png"
+      ],
+      "matches" : ["<all_urls>"]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "assets/ext-icon.png",
+      "24": "assets/ext-icon.png",
+      "32": "assets/ext-icon.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "A tooltip popup description when you hover over the Chrome Extension icon."
+  }
+}
