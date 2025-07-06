@@ -29,7 +29,6 @@ The OptiSolve Chrome Extension revolutionizes how you interact with AI for probl
 ## What Makes OptiSolve Different?
 
 - **Focused AI**: Unlike generic chatbots, AlgoZenith Chat Bot is purpose-built to handle specific coding problems and challenges, ensuring that it stays on topic.
-- **User-Centric Design**: From custom API integration to voice and audio features, every aspect of the extension is crafted to enhance the user's experience.
 - **Continuous Improvement**: A feedback mechanism ensures the AI learns from every interaction to deliver even better responses over time.
 
 ---
@@ -46,7 +45,7 @@ The OptiSolve Chrome Extension revolutionizes how you interact with AI for probl
 
 1. Open the AlgoZenith Chat Bot from your Chrome extensions.
 2. Configure the API key in the popup.
-3. Begin chatting with the bot using text or voice input.
+3. Begin chatting with the bot using text.
 4. Access additional features, such as exporting chats or deleting history etc...
 
 ---
