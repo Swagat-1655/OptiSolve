@@ -43,7 +43,7 @@ The OptiSolve Chrome Extension revolutionizes how you interact with AI for probl
 
 ## How to Use
 
-1. Open the AlgoZenith Chat Bot from your Chrome extensions.
+1. Open the OptiSolve Chat Bot from your Chrome extensions.
 2. Configure the API key in the popup.
 3. Begin chatting with the bot using text.
 4. Access additional features, such as exporting chats or deleting history etc...
