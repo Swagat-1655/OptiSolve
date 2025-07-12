@@ -28,7 +28,7 @@ The OptiSolve Chrome Extension revolutionizes how you interact with AI for probl
 
 ## What Makes OptiSolve Different?
 
-- **Focused AI**: Unlike generic chatbots, AlgoZenith Chat Bot is purpose-built to handle specific coding problems and challenges, ensuring that it stays on topic.
+- **Focused AI**: Unlike generic chatbots, OptiSolve Chat Bot is purpose-built to handle specific coding problems and challenges, ensuring that it stays on topic.
 - **Continuous Improvement**: A feedback mechanism ensures the AI learns from every interaction to deliver even better responses over time.
 
 ---
