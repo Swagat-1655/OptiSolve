@@ -50,4 +50,5 @@ The OptiSolve Chrome Extension revolutionizes how you interact with AI for probl
 
 ---
 
+## Demo Video
 [Click here to watch the demo video](https://drive.google.com/file/d/1tiTUGdyhPbLzIyRitYqJBGysEssotFdt/view?usp=drive_link)
